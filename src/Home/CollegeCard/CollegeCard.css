@@ -1,0 +1,15 @@
+/* CollegeCardSection.css */
+.college-card-section {
+  padding: 20px;
+}
+
+.full-width-card {
+  width: 100%;
+  margin-bottom: 50px;
+  margin-right: 20px; /* Add 20px right margin for the gap between cards */
+}
+
+/* Clear the right margin for the last card in a row */
+.full-width-card:last-child {
+  margin-right: 0;
+}
