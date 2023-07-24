@@ -3,7 +3,6 @@ import CollegeCard from "./Home/CollegeCard/CollegeCard";
 import CollegeImageGallery from "./Home/CollegeImageGallery/CollegeImageGallery";
 import Header from "./Home/Header/Header";
 import ResearchPapers from "./Home/ResearchPapers/ResearchPapers";
-import Admission from "./components/Admission/Admission";
 import College from "./components/College/College";
 import ReviewSEctions from "./components/ReviewSEctions/ReviewSEctions";
 
