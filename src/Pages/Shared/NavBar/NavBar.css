@@ -1,14 +1,18 @@
-.navbar-collapse{
-    flex-grow: 0;
-    
+.navbar-collapse {
+  flex-grow: 0;
 }
 
-.bg-body-tertiary{
-background: linear-gradient(90deg,#0b0933 33%,#3f9fe7 50%,#080d2dfd 72%);
+.bg-body-tertiary {
+  background: linear-gradient(90deg, #0b0933 33%, #3f9fe7 50%, #080d2dfd 72%);
 }
-.navbar-brand{
-    color: #FFFF;
+.navbar-brand {
+  color: #ffff;
 }
 .text-color .nav-link {
-    color: #FFFFFF;
+  color: #ffffff;
+}
+
+.nav-link .link {
+  text-decoration: none;
+  color: #ffffff;
 }

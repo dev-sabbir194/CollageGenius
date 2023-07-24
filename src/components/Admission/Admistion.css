@@ -1,0 +1,27 @@
+.collegename {
+  width: auto;
+  height: 120px;
+  border: none;
+  box-shadow: 0px 0px 0px 2px #bebdbd80;
+  border-radius: 5px;
+}
+
+.apply-btn {
+  width: 150px;
+  height: 40px;
+  border: none;
+  border-radius: 8px;
+  color: #ffffff;
+  font-weight: 700;
+  background: linear-gradient(90deg, #0b0933 33%, #3f9fe7 50%, #080d2dfd 72%);
+}
+
+.college-img {
+  width: 150px;
+  height: 117px;
+}
+
+
+.mergin-admission{
+    margin-top: 50px;
+}

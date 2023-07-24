@@ -1,0 +1,17 @@
+/* MyCollege.css */
+.college-details-card {
+  position: relative;
+  background: black;
+}
+
+.college-details-card h1,
+.college-details-card p {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Adjust the styles as needed to make the component responsive */
+
+.section-mergin{
+    margin-top: 250px;
+}
+

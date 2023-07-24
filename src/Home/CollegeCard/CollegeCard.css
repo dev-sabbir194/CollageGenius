@@ -13,3 +13,8 @@
 .full-width-card:last-child {
   margin-right: 0;
 }
+
+.img-sizing {
+  width: 100%;
+  height: 250px;
+}

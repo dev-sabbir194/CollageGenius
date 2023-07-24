@@ -1,0 +1,18 @@
+.college-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+}
+
+.college-card {
+  width: 18rem;
+  flex: 1 0 18rem;
+}
+
+@media screen and (max-width: 576px) {
+  .college-card {
+    width: 100%; /* Cards take up full width on small devices */
+  }
+}
